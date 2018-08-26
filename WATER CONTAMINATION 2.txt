@@ -1,0 +1,895 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/0838f",
+      "description": "water",
+      "score": 0.83306,
+      "topicality": 0.83306
+    },
+    {
+      "mid": "/m/0k65p",
+      "description": "hand",
+      "score": 0.7809746,
+      "topicality": 0.7809746
+    },
+    {
+      "mid": "/m/09cx8",
+      "description": "finger",
+      "score": 0.6775286,
+      "topicality": 0.6775286
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "UNLIKELY",
+    "racy": "POSSIBLE"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 213,
+            "green": 191,
+            "blue": 165
+          },
+          "score": 0.27802995,
+          "pixelFraction": 0.30886427
+        },
+        {
+          "color": {
+            "red": 78,
+            "green": 44,
+            "blue": 22
+          },
+          "score": 0.09969393,
+          "pixelFraction": 0.038434904
+        },
+        {
+          "color": {
+            "red": 140,
+            "green": 115,
+            "blue": 85
+          },
+          "score": 0.07648724,
+          "pixelFraction": 0.05459372
+        },
+        {
+          "color": {
+            "red": 243,
+            "green": 228,
+            "blue": 195
+          },
+          "score": 0.06438547,
+          "pixelFraction": 0.114035085
+        },
+        {
+          "color": {
+            "red": 67,
+            "green": 48,
+            "blue": 26
+          },
+          "score": 0.0639258,
+          "pixelFraction": 0.020891044
+        },
+        {
+          "color": {
+            "red": 216,
+            "green": 196,
+            "blue": 140
+          },
+          "score": 0.061210923,
+          "pixelFraction": 0.04409049
+        },
+        {
+          "color": {
+            "red": 101,
+            "green": 78,
+            "blue": 52
+          },
+          "score": 0.059233796,
+          "pixelFraction": 0.031855956
+        },
+        {
+          "color": {
+            "red": 112,
+            "green": 73,
+            "blue": 50
+          },
+          "score": 0.051893022,
+          "pixelFraction": 0.015466297
+        },
+        {
+          "color": {
+            "red": 181,
+            "green": 160,
+            "blue": 103
+          },
+          "score": 0.048387103,
+          "pixelFraction": 0.03427978
+        },
+        {
+          "color": {
+            "red": 155,
+            "green": 107,
+            "blue": 84
+          },
+          "score": 0.044142596,
+          "pixelFraction": 0.013504155
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 10
+            },
+            {
+              "x": 158
+            },
+            {
+              "x": 158,
+              "y": 182
+            },
+            {
+              "x": 10,
+              "y": 182
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.59999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 40
+            },
+            {
+              "x": 227
+            },
+            {
+              "x": 227,
+              "y": 182
+            },
+            {
+              "x": 40,
+              "y": 182
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.71999997
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 21
+            },
+            {
+              "x": 243
+            },
+            {
+              "x": 243,
+              "y": 182
+            },
+            {
+              "x": 21,
+              "y": 182
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.84
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/0dtw64",
+        "score": 0.7065,
+        "description": "Water scarcity"
+      },
+      {
+        "entityId": "/m/0838f",
+        "score": 0.687,
+        "description": "Water"
+      },
+      {
+        "entityId": "/m/01c6xf",
+        "score": 0.6674,
+        "description": "Drinking water"
+      },
+      {
+        "entityId": "/m/032t7j",
+        "score": 0.5505,
+        "description": "Water supply"
+      },
+      {
+        "entityId": "/g/11bxfvbdrk",
+        "score": 0.51105,
+        "description": "Flint water crisis"
+      },
+      {
+        "entityId": "/m/036jvk",
+        "score": 0.4915,
+        "description": "Stock photography"
+      },
+      {
+        "entityId": "/m/02jz0l",
+        "score": 0.4781,
+        "description": "Faucet Handles &amp; Controls"
+      },
+      {
+        "entityId": "/m/01jt04",
+        "score": 0.4102,
+        "description": "Tap water"
+      },
+      {
+        "entityId": "/m/0cs9q",
+        "score": 0.3979,
+        "description": "Climate change"
+      },
+      {
+        "entityId": "/m/0ryr0rr",
+        "score": 0.3801
+      },
+      {
+        "entityId": "/m/015s2f",
+        "score": 0.352,
+        "description": "Water resources"
+      },
+      {
+        "entityId": "/m/0jg24",
+        "score": 0.3456,
+        "description": "Image"
+      },
+      {
+        "entityId": "/m/02py09",
+        "score": 0.3432,
+        "description": "Natural environment"
+      },
+      {
+        "entityId": "/t/21mxcct4492j5",
+        "score": 0.336
+      },
+      {
+        "entityId": "/m/09h47q",
+        "score": 0.3345,
+        "description": "iStock"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "https://www.ucdavis.edu/sites/default/files/images/article/drinking_water_resized.jpg"
+      },
+      {
+        "url": "https://www.artificialintelligence-news.com/wp-content/uploads/2018/05/iStock-896115144.jpg"
+      },
+      {
+        "url": "https://i1.wp.com/www.artificialintelligence-news.com/wp-content/uploads/2018/05/iStock-896115144.jpg?fit=1200%2C800&amp;ssl=1"
+      },
+      {
+        "url": "https://www.ucdavis.edu/sites/default/files/styles/panopoly_image_full/public/images/article/drinking_water_resized.jpg?itok=gS2_Pjj8"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/DferFjDXcAA89Oi.jpg"
+      },
+      {
+        "url": "https://i1.wp.com/www.artificialintelligence-news.com/wp-content/uploads/2018/05/iStock-896115144.jpg?resize=1000%2C600&amp;ssl=1"
+      },
+      {
+        "url": "https://media.licdn.com/media-proxy/ext?w=800&amp;h=800&amp;hash=%2FgZi%2BfkUrW7MpiXG6kJh7d1OvGc%3D&amp;ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSeLKjoEtOdSoJkxJkcrG-GGGiSp69d9moHttw7OutLPbnYDcvbVlkp2pEu_trYCwPgNH1Ia3_ci8Tg6kKTi6bEZrdX1Y0OCgn2sDbIZHpHHsz6WfJH_v5OPpRX-JlvdFolQddhtXwDNIXw9R7xVF8_X3sqY-uHAtY7byfM0m2NVg3W3XqEMp2tJ_V4huNtHrKqhiH96alAIrzOa4j-ySRzemBVC-wh3gw6XQR9ksKv-RHVXnujt420Gu3GsAZZzG_5ujreCCW7uVL4g0u7A"
+      },
+      {
+        "url": "https://www.thehindu.com/opinion/op-ed/y9epax/article24575852.ece/alternates/FREE_660/02THiStock-896115144"
+      },
+      {
+        "url": "https://img.huffingtonpost.com/asset/5b6964f1200000de0237919a.jpeg?cache=TlThvObgVS&amp;ops=scalefit_630_noupscale"
+      },
+      {
+        "url": "https://media.istockphoto.com/photos/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-picture-id896115144?k=6&amp;m=896115144&amp;s=612x612&amp;w=0&amp;h=9mfCXv0whs62iApcPmuMN6W23Xiro6IEkSTcFLmzAsI="
+      },
+      {
+        "url": "https://www.thehindu.com/opinion/op-ed/y9epax/article24575852.ece/ALTERNATES/LANDSCAPE_615/02THiStock-896115144"
+      },
+      {
+        "url": "https://i1.wp.com/www.artificialintelligence-news.com/wp-content/uploads/2018/05/iStock-896115144.jpg?resize=450%2C270&amp;ssl=1"
+      },
+      {
+        "url": "https://www.wucaonline.org/assets/images/water-spout.jpg"
+      },
+      {
+        "url": "https://calscientists.org/wp-content/uploads/2018/08/drinking_water_resized-350x200.jpg"
+      },
+      {
+        "url": "https://i2.wp.com/energiasolaraldia.com/wp-content/uploads/2018/08/escasez-agua-696x464.jpg?resize=340%2C191"
+      },
+      {
+        "url": "https://www.thehindu.com/opinion/op-ed/y9epax/article24575852.ece/ALTERNATES/LANDSCAPE_300/02THiStock-896115144"
+      },
+      {
+        "url": "https://i1.wp.com/www.artificialintelligence-news.com/wp-content/uploads/2018/05/iStock-896115144.jpg?resize=300%2C180&amp;ssl=1"
+      },
+      {
+        "url": "https://tecreview.tec.mx/wp-content/uploads/2018/08/escasez-agua-218x150.jpg"
+      },
+      {
+        "url": "https://img.huffingtonpost.com/asset/5b6964f1200000de0237919a.jpeg?ops=200_150"
+      },
+      {
+        "url": "https://media.gettyimages.com/photos/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-picture-id896115144?b=1&amp;k=6&amp;m=896115144&amp;s=170x170&amp;h=6tv88Xfonq4Ht_WquanFp3382FmHoCOZZrGF41XabJ0="
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://img.huffingtonpost.com/asset/5b6964f1200000de0237919a.jpeg?ops=1200_630"
+      },
+      {
+        "url": "https://images.assettype.com/quint-hindi/2018-03/e4ec6d95-d838-45db-8ba9-52e6521d2801/03e3eeba-7db4-4587-9d6b-dfa2f56eae04.jpg"
+      },
+      {
+        "url": "https://images.assettype.com/quint-hindi%2F2018-03%2Fe4ec6d95-d838-45db-8ba9-52e6521d2801%2F03e3eeba-7db4-4587-9d6b-dfa2f56eae04.jpg?q=35&amp;auto=format%2Ccompress&amp;w=960"
+      },
+      {
+        "url": "https://media.licdn.com/media-proxy/ext?w=800&amp;h=800&amp;hash=kWgJW7RcNnCGNZAlWGwU4Vr%2Bz1s%3D&amp;ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSeLChpEtOdSoCkBJkcrG-GGGiSp7dafyVfNxkieGlIsS1RQUDeAQG3WxWzsNrFRYjutH1Ia3_ci8Tg6kKTi6bEZrdX1Y0OCgn2sDbIZHpHHsz6WfJH_v5OPpRX-JlvdFolVRbr9XwDc01xtl7zVh4xEuDqrX-Hw4c6qaKPHDmNX4BGnD5HNlA7YTQ1GrfqlbaqU7Cq9-nAIq0MbwS726u4vrORTOrh0g87W0WgUtNhcUtBiH5wcI07HDkAsxRbiyC5_n2HXeErOg29Rw5sJHRHSSZbShglA"
+      },
+      {
+        "url": "https://media.licdn.com/media-proxy/ext?w=800&amp;h=800&amp;hash=bT70umNS5DKQqo7f%2Blgf5ce75i8%3D&amp;ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjgecXYLbCpoEBDKXgDjQA2er61ETbgE466KYu6eN1wi8K0cpL5aRUPbhU4hGUB5sE-Pg"
+      },
+      {
+        "url": "https://i0.wp.com/www.pasadenaweekly.com/wp-content/uploads/2018/07/ArtsFeat_web_070518-1.jpg?resize=627%2C376&amp;ssl=1"
+      },
+      {
+        "url": "https://l450v.alamy.com/450v/p6y644/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-shallow-depth-of-field-p6y644.jpg"
+      },
+      {
+        "url": "http://www.developmentnews.in/wp-content/uploads/2018/08/02THiStock-896115144-326x245.jpg"
+      },
+      {
+        "url": "https://edublog.news/wp-content/uploads/2018/08/drinking_water_resized-326x245.jpg"
+      },
+      {
+        "url": "https://images.assettype.com/quint-hindi/2018-03/e4ec6d95-d838-45db-8ba9-52e6521d2801/03e3eeba-7db4-4587-9d6b-dfa2f56eae04.jpg?w=360"
+      },
+      {
+        "url": "https://www.ucdavis.edu/sites/default/files/styles/panopoly_image_square/public/images/article/drinking_water_resized.jpg?itok=ydwDf0dJ"
+      },
+      {
+        "url": "https://www.energytoday.net/wp-content/uploads/2018/05/GettyImages-896115144-150x150.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://www.istockphoto.com/photos/water-poverty-faucet-rusty",
+        "pageTitle": "Royalty Free &lt;b&gt;Water Poverty&lt;/b&gt; Faucet Rusty Pictures, Images and ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://media.istockphoto.com/photos/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-picture-id896115144?k=6&amp;m=896115144&amp;s=612x612&amp;w=0&amp;h=9mfCXv0whs62iApcPmuMN6W23Xiro6IEkSTcFLmzAsI="
+          }
+        ]
+      },
+      {
+        "url": "https://www.ucdavis.edu/news/california-water-managers-vary-use-climate-science-uc-davis-study-finds/",
+        "pageTitle": "California &lt;b&gt;Water&lt;/b&gt; Managers Vary in Use of Climate Science, UC ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.ucdavis.edu/sites/default/files/images/article/drinking_water_resized.jpg"
+          },
+          {
+            "url": "https://www.ucdavis.edu/sites/default/files/styles/panopoly_image_full/public/images/article/drinking_water_resized.jpg?itok=gS2_Pjj8"
+          }
+        ]
+      },
+      {
+        "url": "https://www.wucaonline.org/",
+        "pageTitle": "&lt;b&gt;Water&lt;/b&gt; Utility Climate Alliance",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.wucaonline.org/assets/images/water-spout.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.ucdavis.edu/news/water",
+        "pageTitle": "&lt;b&gt;Water&lt;/b&gt; | UC Davis",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.ucdavis.edu/sites/default/files/styles/panopoly_image_square/public/images/article/drinking_water_resized.jpg?itok=ydwDf0dJ"
+          }
+        ]
+      },
+      {
+        "url": "https://www.thehindu.com/opinion/op-ed/scaled-up-solutions-for-a-future-of-water-scarcity/article24575853.ece",
+        "pageTitle": "Scaled-up solutions for a future of &lt;b&gt;water&lt;/b&gt; scarcity - The Hindu",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.thehindu.com/opinion/op-ed/y9epax/article24575852.ece/ALTERNATES/LANDSCAPE_300/02THiStock-896115144"
+          },
+          {
+            "url": "https://www.thehindu.com/opinion/op-ed/y9epax/article24575852.ece/ALTERNATES/LANDSCAPE_615/02THiStock-896115144"
+          },
+          {
+            "url": "https://www.thehindu.com/opinion/op-ed/y9epax/article24575852.ece/alternates/FREE_660/02THiStock-896115144"
+          }
+        ]
+      },
+      {
+        "url": "https://www.istockphoto.com/fi/photos/clean-water-africa",
+        "pageTitle": "Royalty Free Clean &lt;b&gt;Water&lt;/b&gt; Africa Pictures, Images and Stock Photos ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://media.istockphoto.com/photos/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-picture-id896115144?k=6&amp;m=896115144&amp;s=612x612&amp;w=0&amp;h=9mfCXv0whs62iApcPmuMN6W23Xiro6IEkSTcFLmzAsI="
+          }
+        ]
+      },
+      {
+        "url": "https://www.artificialintelligence-news.com/2018/05/30/see-how-ai-can-identify-dangerous-bacteria-in-water-supplies/",
+        "pageTitle": "See how AI can identify dangerous bacteria in &lt;b&gt;water&lt;/b&gt; supplies - AI ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://i1.wp.com/www.artificialintelligence-news.com/wp-content/uploads/2018/05/iStock-896115144.jpg?resize=1000%2C600&amp;ssl=1"
+          },
+          {
+            "url": "https://i1.wp.com/www.artificialintelligence-news.com/wp-content/uploads/2018/05/iStock-896115144.jpg?fit=1200%2C800&amp;ssl=1"
+          },
+          {
+            "url": "https://www.artificialintelligence-news.com/wp-content/uploads/2018/05/iStock-896115144.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://2ser.com/is-australian-water-going-bad/",
+        "pageTitle": "Is Australian &lt;b&gt;water&lt;/b&gt; going bad? - 2ser",
+        "fullMatchingImages": [
+          {
+            "url": "https://s3-ap-southeast-2.amazonaws.com/2ser-wordpress/wp-content/aws/uploads/2018/07/14184052/iStock-896115144.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.developmentnews.in/category/water/",
+        "pageTitle": "&lt;b&gt;Water&lt;/b&gt; - Development News",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.developmentnews.in/wp-content/uploads/2018/08/02THiStock-896115144-326x245.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.developmentnews.in/scaled-solutions-future-water-scarcity/",
+        "pageTitle": "Scaled-up solutions for a future of &lt;b&gt;water&lt;/b&gt; scarcity - Development News",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.developmentnews.in/wp-content/uploads/2018/08/02THiStock-896115144.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.artificialintelligence-news.com/2018/05/30/see-how-ai-can-identify-dangerous-bacteria-in-water-supplies/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-shallow-depth-of-field/",
+        "pageTitle": "Cupped Hands under falling &lt;b&gt;water&lt;/b&gt; from old rusty tap. selective focus ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://i1.wp.com/www.artificialintelligence-news.com/wp-content/uploads/2018/05/iStock-896115144.jpg?fit=1200%2C800&amp;ssl=1"
+          },
+          {
+            "url": "https://www.artificialintelligence-news.com/wp-content/uploads/2018/05/iStock-896115144.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://edublog.news/2018/08/11/california-water-managers-vary-in-use-of-climate-science-uc-davis-study-finds/",
+        "pageTitle": "California &lt;b&gt;Water&lt;/b&gt; Managers Vary in Use of Climate Science, UC ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://edublog.news/wp-content/uploads/2018/08/drinking_water_resized.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.alamy.com/hands-under-falling-water-from-old-rusty-tap-selective-focus-shallow-depth-of-field-image210809875.html",
+        "pageTitle": "Hands under falling &lt;b&gt;water&lt;/b&gt; from old rusty tap. selective focus, shallow ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://l450v.alamy.com/450v/p6y644/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-shallow-depth-of-field-p6y644.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.kasmentor.com/blog/kas-mentor-kerala-administrative-service-exam-topic-77-scaled-up-solutions-for-a-future-of-water-scarcity/",
+        "pageTitle": "KAS Mentor Kerala Administrative Service Exam Topic 78 – Scaled ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.thehindu.com/opinion/op-ed/y9epax/article24575852.ece/alternates/FREE_660/02THiStock-896115144"
+          }
+        ]
+      },
+      {
+        "url": "https://calscientists.org/california-water-managers-vary-in-use-of-climate-science/",
+        "pageTitle": "California &lt;b&gt;water&lt;/b&gt; managers vary in use of climate science | California ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://calscientists.org/wp-content/uploads/2018/08/drinking_water_resized.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://calscientists.org/a-company-at-the-center-of-flints-water-crisis-is-on-the-shortlist-to-serve-millions-in-africa/",
+        "pageTitle": "A Company At The Center Of Flint&amp;#39;s &lt;b&gt;Water&lt;/b&gt; Crisis Is On The Shortlist ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://calscientists.org/wp-content/uploads/2018/08/drinking_water_resized-350x200.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.kasmentor.com/blog/2018/08/02/",
+        "pageTitle": "August 2, 2018 – Kerala Administrative Service Mentorship ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.thehindu.com/opinion/op-ed/y9epax/article24575852.ece/alternates/FREE_660/02THiStock-896115144"
+          }
+        ]
+      },
+      {
+        "url": "https://www.alamy.com/stock-photo-water-flowing-from-cupped-hands-28538700.html",
+        "pageTitle": "&lt;b&gt;Water&lt;/b&gt; flowing from cupped hands Stock Photo: 28538700 - Alamy",
+        "partialMatchingImages": [
+          {
+            "url": "https://l450v.alamy.com/450v/p6y644/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-shallow-depth-of-field-p6y644.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.aggressivemarketing.info/rusty-faucet/surprising-design-rusty-faucet-by-videohive-play-preview-video-drag-queen-water-handle-bathtub-bathroom-from-hot/",
+        "pageTitle": "Surprising Design Rusty Faucet By Videohive Play Preview Video ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.aggressivemarketing.info/wp-content/uploads/surprising-design-rusty-faucet-royalty-free-water-poverty-pictures-images-and-stock-photos-drag-queen-handle-hot.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.aggressivemarketing.info/rusty-faucet/fancy-design-rusty-faucet-images-stock-photos-vectors-shutterstock-old-with-rust-stains-drag-queen-water-handle-bathtub-bathroom-from/",
+        "pageTitle": "Fancy Design Rusty Faucet Images Stock Photos Vectors ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.aggressivemarketing.info/wp-content/uploads/surprising-design-rusty-faucet-royalty-free-water-poverty-pictures-images-and-stock-photos-drag-queen-handle-hot.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://mfanews.net/california-water-managers-vary-in-use-of-climate-science-uc-davis-study-finds/",
+        "pageTitle": "California &lt;b&gt;Water&lt;/b&gt; Managers Vary in Use of Climate Science, UC ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://mfanews.net/wp-content/uploads/2018/08/drinking_water_resized.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/AIGamingCom/status/1006461155425095680",
+        "pageTitle": "AI Gaming on Twitter: &amp;quot;See how AI can identify dangerous bacteria ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/media/DferFjDXcAA89Oi.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pasadenaweekly.com/author/bliss-bowen/page/4/",
+        "pageTitle": "Bliss Bowen, Author at Pasadena Weekly - Page 4 of 225",
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/www.pasadenaweekly.com/wp-content/uploads/2018/07/ArtsFeat_web_070518-1.jpg?resize=627%2C376&amp;ssl=1"
+          }
+        ]
+      },
+      {
+        "url": "https://2ser.com/is-australian-water-going-bad/istock-896115144/",
+        "pageTitle": "iStock-896115144 - 2ser",
+        "fullMatchingImages": [
+          {
+            "url": "https://s3-ap-southeast-2.amazonaws.com/2ser-wordpress/wp-content/aws/uploads/2018/07/14184052/iStock-896115144.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.freeimages.com/premium/outdoor-faucet-and-running-water-1579532",
+        "pageTitle": "Outdoor Faucet and Running &lt;b&gt;Water&lt;/b&gt; Stock Photos - FreeImages.com",
+        "fullMatchingImages": [
+          {
+            "url": "https://media.gettyimages.com/photos/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-picture-id896115144?b=1&amp;k=6&amp;m=896115144&amp;s=170x170&amp;h=6tv88Xfonq4Ht_WquanFp3382FmHoCOZZrGF41XabJ0="
+          }
+        ]
+      },
+      {
+        "url": "https://www.pasadenaweekly.com/category/facebook/",
+        "pageTitle": "Facebook Archives - Pasadena Weekly",
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/www.pasadenaweekly.com/wp-content/uploads/2018/07/ArtsFeat_web_070518-1.jpg?resize=627%2C376&amp;ssl=1"
+          }
+        ]
+      },
+      {
+        "url": "https://www.energytoday.net/economics-policy/katrina-brain-invisible-long-term-toll-megastorms/",
+        "pageTitle": "&amp;#39;Katrina Brain&amp;#39;: The Invisible Long-term Toll of Megastorms",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.energytoday.net/wp-content/uploads/2018/05/GettyImages-896115144-150x150.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.energytoday.net/economics-policy/the-1967-war-and-the-oil-weapon/",
+        "pageTitle": "The 1967 War and the “Oil Weapon” - Energy Today",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.energytoday.net/wp-content/uploads/2018/05/GettyImages-896115144-150x150.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://edublog.news/category/university-of-california-davis/",
+        "pageTitle": "University of California, Davis Archives - Education News",
+        "partialMatchingImages": [
+          {
+            "url": "https://edublog.news/wp-content/uploads/2018/08/drinking_water_resized-326x245.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.linkedin.com/in/rowelldevin",
+        "pageTitle": "Devin Rowell | LinkedIn",
+        "fullMatchingImages": [
+          {
+            "url": "https://media.licdn.com/media-proxy/ext?w=800&amp;h=800&amp;hash=%2FgZi%2BfkUrW7MpiXG6kJh7d1OvGc%3D&amp;ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSeLKjoEtOdSoJkxJkcrG-GGGiSp69d9moHttw7OutLPbnYDcvbVlkp2pEu_trYCwPgNH1Ia3_ci8Tg6kKTi6bEZrdX1Y0OCgn2sDbIZHpHHsz6WfJH_v5OPpRX-JlvdFolQddhtXwDNIXw9R7xVF8_X3sqY-uHAtY7byfM0m2NVg3W3XqEMp2tJ_V4huNtHrKqhiH96alAIrzOa4j-ySRzemBVC-wh3gw6XQR9ksKv-RHVXnujt420Gu3GsAZZzG_5ujreCCW7uVL4g0u7A"
+          }
+        ]
+      },
+      {
+        "url": "http://www.thinkstockphotos.ae/royalty-free/drought-pictures",
+        "pageTitle": "Drought Stock Photos and Illustrations - Royalty-Free Images ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://media.gettyimages.com/photos/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-picture-id896115144?s=170x170"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/aigamingcom?lang=en",
+        "pageTitle": "AI Gaming (@AIGamingCom) | Twitter",
+        "fullMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/media/DferFjDXcAA89Oi.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.thehindu.com/opinion/op-ed/y9epax/article24575852.ece",
+        "pageTitle": "02THiStock-896115144 - The Hindu",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.thehindu.com/opinion/op-ed/y9epax/article24575852.ece/ALTERNATES/LANDSCAPE_615/02THiStock-896115144"
+          },
+          {
+            "url": "https://www.thehindu.com/opinion/op-ed/y9epax/article24575852.ece/alternates/FREE_660/02THiStock-896115144"
+          }
+        ]
+      },
+      {
+        "url": "https://fr.linkedin.com/in/danielle-sakepa-571038b6/zh-cn",
+        "pageTitle": "Danielle Sakepa - Project finance - Credit Agricole | ?? - LinkedIn",
+        "partialMatchingImages": [
+          {
+            "url": "https://media.licdn.com/media-proxy/ext?w=800&amp;h=800&amp;hash=kWgJW7RcNnCGNZAlWGwU4Vr%2Bz1s%3D&amp;ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSeLChpEtOdSoCkBJkcrG-GGGiSp7dafyVfNxkieGlIsS1RQUDeAQG3WxWzsNrFRYjutH1Ia3_ci8Tg6kKTi6bEZrdX1Y0OCgn2sDbIZHpHHsz6WfJH_v5OPpRX-JlvdFolVRbr9XwDc01xtl7zVh4xEuDqrX-Hw4c6qaKPHDmNX4BGnD5HNlA7YTQ1GrfqlbaqU7Cq9-nAIq0MbwS726u4vrORTOrh0g87W0WgUtNhcUtBiH5wcI07HDkAsxRbiyC5_n2HXeErOg29Rw5sJHRHSSZbShglA"
+          }
+        ]
+      },
+      {
+        "url": "http://magglebrooks.com/californias-water-managers-gave",
+        "pageTitle": "Californias &lt;b&gt;Water&lt;/b&gt; Managers Gave - Magglebrooks",
+        "fullMatchingImages": [
+          {
+            "url": "https://edublog.news/wp-content/uploads/2018/08/drinking_water_resized.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.jheauctions.com/pics/internet-contained-dangerous-bacteria",
+        "pageTitle": "Internet Contained Dangerous Bacteria | JHE Auctions",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.artificialintelligence-news.com/wp-content/uploads/2018/05/iStock-896115144.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://wpdevil.org/blog/hindu-jal-board-aims",
+        "pageTitle": "Hindu Jal Board Aims — WPDevil",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.thehindu.com/opinion/op-ed/y9epax/article24575852.ece/alternates/FREE_660/02THiStock-896115144"
+          }
+        ]
+      },
+      {
+        "url": "http://library.niceeyes.site/uc-davis-medical-library-hours/",
+        "pageTitle": "Uc Davis Medical Library Hours - The Best Library 2018",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.ucdavis.edu/sites/default/files/styles/panopoly_image_full/public/images/article/drinking_water_resized.jpg?itok=gS2_Pjj8"
+          }
+        ]
+      },
+      {
+        "url": "https://hindi.thequint.com/news/india/world-water-day-bengaluru-may-soon-run-out-of-water-day-zero-reveals-report",
+        "pageTitle": "World &lt;b&gt;Water&lt;/b&gt; Day: ???? ?? ???? ?????? ?? ???? ?? Cape ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://images.assettype.com/quint-hindi/2018-03/e4ec6d95-d838-45db-8ba9-52e6521d2801/03e3eeba-7db4-4587-9d6b-dfa2f56eae04.jpg"
+          },
+          {
+            "url": "https://images.assettype.com/quint-hindi%2F2018-03%2Fe4ec6d95-d838-45db-8ba9-52e6521d2801%2F03e3eeba-7db4-4587-9d6b-dfa2f56eae04.jpg?q=35&amp;auto=format%2Ccompress&amp;w=960"
+          },
+          {
+            "url": "https://images.assettype.com/quint-hindi/2018-03/e4ec6d95-d838-45db-8ba9-52e6521d2801/03e3eeba-7db4-4587-9d6b-dfa2f56eae04.jpg?w=360"
+          }
+        ]
+      },
+      {
+        "url": "https://nl.freeimages.com/premium/outdoor-faucet-and-running-water-1579532",
+        "pageTitle": "Buiten Kraan En Running &lt;b&gt;Water&lt;/b&gt; Stockfoto&amp;#39;s - FreeImages.com",
+        "fullMatchingImages": [
+          {
+            "url": "https://media.gettyimages.com/photos/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-picture-id896115144?b=1&amp;k=6&amp;m=896115144&amp;s=170x170&amp;h=6tv88Xfonq4Ht_WquanFp3382FmHoCOZZrGF41XabJ0="
+          }
+        ]
+      },
+      {
+        "url": "http://www.thinkstockphotos.es/royalty-free/pa%C3%ADses-en-v%C3%ADas-de-desarrollo-pictures",
+        "pageTitle": "Países En Vías De Desarrollo Fotos e ilustraciones de stock ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://media.gettyimages.com/photos/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-picture-id896115144?s=170x170"
+          }
+        ]
+      },
+      {
+        "url": "http://www.thinkstockphotos.es/royalty-free/deshidrataci%C3%B3n-pictures",
+        "pageTitle": "Deshidratación Fotos e ilustraciones de stock - Imágenes libres de ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://media.gettyimages.com/photos/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-picture-id896115144?s=170x170"
+          }
+        ]
+      },
+      {
+        "url": "http://www.thinkstockphotos.jp/royalty-free/%E5%B9%B2%E3%81%B0%E3%81%A4-pictures",
+        "pageTitle": "??? ???????????? - ????????????? - Thinkstock ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://media.gettyimages.com/photos/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-picture-id896115144?s=170x170"
+          }
+        ]
+      },
+      {
+        "url": "https://www.alamy.de/hande-unter-wasser-fallen-aus-alten-rostigen-tippen-selektive-fokus-geringe-tiefenscharfe-image210809874.html",
+        "pageTitle": "Hände unter Wasser fallen aus alten rostigen tippen. selektive ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://l450v.alamy.com/450vde/p6y644/hohlen-hande-unter-wasser-fallen-aus-alten-rostigen-tippen-selektive-fokus-geringe-tiefenscharfe-p6y644.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.alamy.de/hande-unter-wasser-fallen-aus-alten-rostigen-tippen-selektive-fokus-geringe-tiefenscharfe-image210809875.html",
+        "pageTitle": "Hände unter Wasser fallen aus alten rostigen tippen. selektive ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://l450v.alamy.com/450vde/p6y644/hohlen-hande-unter-wasser-fallen-aus-alten-rostigen-tippen-selektive-fokus-geringe-tiefenscharfe-p6y644.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://aimadesimple.com/category/artificial-intelligence/",
+        "pageTitle": "artificial intelligence – AIMADESIMPLE",
+        "fullMatchingImages": [
+          {
+            "url": "http://aimadesimple.com/wp-content/uploads/2018/08/iStock-896115144.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://aimadesimple.com/author/admin/",
+        "pageTitle": "admin – AIMADESIMPLE",
+        "fullMatchingImages": [
+          {
+            "url": "http://aimadesimple.com/wp-content/uploads/2018/08/iStock-896115144.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.huffpostmaghreb.com/entry/leau-en-tunisie-entre-penurie-et-mauvaise-gouvernance-la-crise-continue_mg_5b6381e3e4b0eb29100e59d9",
+        "pageTitle": "L&amp;#39;eau en Tunisie: Entre pénurie et mauvaise gouvernance ... la crise ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://img.huffingtonpost.com/asset/5b6964f1200000de0237919a.jpeg?ops=1200_630"
+          },
+          {
+            "url": "https://img.huffingtonpost.com/asset/5b6964f1200000de0237919a.jpeg?cache=TlThvObgVS&amp;ops=scalefit_630_noupscale"
+          },
+          {
+            "url": "https://img.huffingtonpost.com/asset/5b6964f1200000de0237919a.jpeg?ops=200_150"
+          }
+        ]
+      },
+      {
+        "url": "https://www.alamy.es/las-manos-debajo-de-las-caidas-de-agua-de-grifo-oxidado-viejo-el-enfoque-selectivo-poca-profundidad-de-campo-image210809875.html",
+        "pageTitle": "Las manos debajo de las caídas de agua de grifo oxidado viejo. El ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://l450v.alamy.com/450ves/p6y644/ahuecada-manos-bajo-las-caidas-de-agua-de-grifo-oxidado-viejo-el-enfoque-selectivo-poca-profundidad-de-campo-p6y644.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.thinkstockphotos.co.kr/royalty-free/%EA%B0%80%EB%AD%84-pictures",
+        "pageTitle": "?? ?? ?? ? ???? - Royalty-free ??? - Thinkstock ????",
+        "fullMatchingImages": [
+          {
+            "url": "http://media.gettyimages.com/photos/cupped-hands-under-falling-water-from-old-rusty-tap-selective-focus-picture-id896115144?s=170x170"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "http://borgenproject.org/wp-content/uploads/Water-1-530x353.jpg"
+      },
+      {
+        "url": "http://www.imaginecanada.ca/sites/default/files/styles/large/public/keys_shutterstock_576373987_main.png?itok=X3nZ5bez"
+      },
+      {
+        "url": "https://media.istockphoto.com/photos/stream-of-clean-water-pouring-into-infant-hands-picture-id900265528?k=6&amp;m=900265528&amp;s=612x612&amp;w=0&amp;h=SPv2hwjqhr4LlwjL0pY62L5-daXkDBEBDkWoUSrTutM="
+      },
+      {
+        "url": "https://image.shutterstock.com/image-photo/social-issues-water-pouring-african-260nw-246601219.jpg"
+      },
+      {
+        "url": "http://www.carrickbaptist.ie/images/posts/2013/05/dirty_water_glass.jpg"
+      },
+      {
+        "url": "https://s-media-cache-ak0.pinimg.com/originals/95/1d/b1/951db13dfe7e97c1af776175fb535788.jpg"
+      },
+      {
+        "url": "https://edu.glogster.com/library/proxy?url=http%3A%2F%2Ftembisan.co.za%2Fwp-content%2Fuploads%2Fsites%2F29%2F2015%2F03%2Fdrinkwater.jpg%3F2a5d20"
+      },
+      {
+        "url": "https://www.africa.com/wp-content/uploads/2017/10/clean-and-safe-water-2.jpg"
+      },
+      {
+        "url": "https://248qms3nhmvl15d4ne1i4pxl-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Poverty-tap-760x400.jpg"
+      },
+      {
+        "url": "http://www.borgenmagazine.com/wp-content/uploads/2014/07/causes-to-donate.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "poverty water",
+        "languageCode": "en"
+      }
+    ]
+  }
+}

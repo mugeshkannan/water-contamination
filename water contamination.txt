@@ -1,0 +1,1056 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/02mhj",
+      "description": "ecosystem",
+      "score": 0.95006853,
+      "topicality": 0.95006853
+    },
+    {
+      "mid": "/m/0838f",
+      "description": "water",
+      "score": 0.93938327,
+      "topicality": 0.93938327
+    },
+    {
+      "mid": "/m/035qhg",
+      "description": "fauna",
+      "score": 0.91942495,
+      "topicality": 0.91942495
+    },
+    {
+      "mid": "/m/09686",
+      "description": "vertebrate",
+      "score": 0.9037037,
+      "topicality": 0.9037037
+    },
+    {
+      "mid": "/m/0jjw",
+      "description": "art",
+      "score": 0.84499955,
+      "topicality": 0.84499955
+    },
+    {
+      "mid": "/m/05qdh",
+      "description": "painting",
+      "score": 0.830473,
+      "topicality": 0.830473
+    },
+    {
+      "mid": "/m/0ch_cf",
+      "description": "fish",
+      "score": 0.7656231,
+      "topicality": 0.7656231
+    },
+    {
+      "mid": "/m/05nnm",
+      "description": "organism",
+      "score": 0.75366503,
+      "topicality": 0.75366503
+    },
+    {
+      "mid": "/m/050vn",
+      "description": "marine biology",
+      "score": 0.6334555,
+      "topicality": 0.6334555
+    },
+    {
+      "mid": "/m/01kr8f",
+      "description": "illustration",
+      "score": 0.6202461,
+      "topicality": 0.6202461
+    },
+    {
+      "mid": "/m/07pbfj",
+      "description": "fish",
+      "score": 0.5996679,
+      "topicality": 0.5996679
+    },
+    {
+      "mid": "/m/0dgsmq8",
+      "description": "artwork",
+      "score": 0.59690064,
+      "topicality": 0.59690064
+    },
+    {
+      "mid": "/m/04rd7",
+      "description": "mural",
+      "score": 0.5741472,
+      "topicality": 0.5741472
+    },
+    {
+      "mid": "/m/0gd2v",
+      "description": "marine mammal",
+      "score": 0.5396952,
+      "topicality": 0.5396952
+    },
+    {
+      "mid": "/m/02xlf",
+      "description": "fiction",
+      "score": 0.502087,
+      "topicality": 0.502087
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 96,
+            "green": 166,
+            "blue": 187
+          },
+          "score": 0.2314188,
+          "pixelFraction": 0.1622016
+        },
+        {
+          "color": {
+            "red": 143,
+            "green": 210,
+            "blue": 168
+          },
+          "score": 0.066795416,
+          "pixelFraction": 0.00596817
+        },
+        {
+          "color": {
+            "red": 161,
+            "green": 148,
+            "blue": 124
+          },
+          "score": 0.059681892,
+          "pixelFraction": 0.010212202
+        },
+        {
+          "color": {
+            "red": 138,
+            "green": 241,
+            "blue": 227
+          },
+          "score": 0.05166627,
+          "pixelFraction": 0.09403183
+        },
+        {
+          "color": {
+            "red": 82,
+            "green": 85,
+            "blue": 82
+          },
+          "score": 0.024818378,
+          "pixelFraction": 0.0734748
+        },
+        {
+          "color": {
+            "red": 149,
+            "green": 67,
+            "blue": 68
+          },
+          "score": 0.0073873936,
+          "pixelFraction": 0.0022546418
+        },
+        {
+          "color": {
+            "red": 243,
+            "green": 199,
+            "blue": 184
+          },
+          "score": 0.0056359265,
+          "pixelFraction": 0.00066312996
+        },
+        {
+          "color": {
+            "red": 133,
+            "green": 201,
+            "blue": 218
+          },
+          "score": 0.14595714,
+          "pixelFraction": 0.08938992
+        },
+        {
+          "color": {
+            "red": 166,
+            "green": 53,
+            "blue": 47
+          },
+          "score": 0.00074377644,
+          "pixelFraction": 0.000265252
+        },
+        {
+          "color": {
+            "red": 123,
+            "green": 165,
+            "blue": 165
+          },
+          "score": 0.040468793,
+          "pixelFraction": 0.022679046
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 74
+            },
+            {
+              "x": 212
+            },
+            {
+              "x": 212,
+              "y": 167
+            },
+            {
+              "x": 74,
+              "y": 167
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.5
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 62
+            },
+            {
+              "x": 233
+            },
+            {
+              "x": 233,
+              "y": 167
+            },
+            {
+              "x": 62,
+              "y": 167
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.62
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 41
+            },
+            {
+              "x": 245
+            },
+            {
+              "x": 245,
+              "y": 167
+            },
+            {
+              "x": 41,
+              "y": 167
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.74
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/01tbgl",
+        "score": 0.7362,
+        "description": "Water pollution"
+      },
+      {
+        "entityId": "/m/066xq",
+        "score": 0.7164,
+        "description": "Pollution"
+      },
+      {
+        "entityId": "/m/02csf",
+        "score": 0.7125,
+        "description": "Drawing"
+      },
+      {
+        "entityId": "/m/0838f",
+        "score": 0.5573,
+        "description": "Water"
+      },
+      {
+        "entityId": "/g/113y7cd6d",
+        "score": 0.54705,
+        "description": "Organic Pollutants in Water: Sampling, Analysis, and Toxicity Testing"
+      },
+      {
+        "entityId": "/m/0dc7h",
+        "score": 0.492,
+        "description": "Air pollution"
+      },
+      {
+        "entityId": "/m/01c6xf",
+        "score": 0.4908,
+        "description": "Drinking water"
+      },
+      {
+        "entityId": "/m/064cw",
+        "score": 0.4861,
+        "description": "Pollutant"
+      },
+      {
+        "entityId": "/m/07glzq",
+        "score": 0.4752,
+        "description": "Sketch"
+      },
+      {
+        "entityId": "/m/0jg24",
+        "score": 0.3939,
+        "description": "Image"
+      },
+      {
+        "entityId": "/m/015s2f",
+        "score": 0.3443,
+        "description": "Water resources"
+      },
+      {
+        "entityId": "/m/01kr8f",
+        "score": 0.3042,
+        "description": "Illustration"
+      },
+      {
+        "entityId": "/m/01n05y",
+        "score": 0.2833,
+        "description": "Groundwater"
+      },
+      {
+        "entityId": "/m/04_8m7",
+        "score": 0.2794,
+        "description": "Persistent organic pollutant"
+      },
+      {
+        "entityId": "/m/09csk3",
+        "score": 0.2675,
+        "description": "Pollution prevention"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "https://www.iagua.es/sites/default/files/styles/thumbnail-1180x647/public/pollution-1603644_1280.jpg?itok=iaTObQFE"
+      },
+      {
+        "url": "http://www.puntuit.nl/static/image/10819/10/pollution%201603644%201920.jpg"
+      },
+      {
+        "url": "http://www.infolaby.com/wp-content/uploads/2018/06/pollution-1603644_1920-1200x630.jpg"
+      },
+      {
+        "url": "https://www.expecthim.com/wp-content/uploads/2016/10/%E7%92%B0%E5%A2%83%E6%B1%A1%E6%9F%93%E7%9A%84%E5%8A%8A%E5%AD%90%E6%89%8B-min.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/www.4vientos.net/wp-content/uploads/2018/03/pollution-1603644_1920.jpg?resize=800%2C445"
+      },
+      {
+        "url": "http://media.komchadluek.net/img/size1/2017/01/11/hbk589dagaf5f6had89ab1.jpg"
+      },
+      {
+        "url": "http://water-purifiers.com/wp-content/uploads/2016/12/dsf-715x400.jpg"
+      },
+      {
+        "url": "https://thequarky.com/wp-content/uploads/2017/07/ocean-pollution-672x372.jpg"
+      },
+      {
+        "url": "http://www.positivenegativeeffects.com/wp-content/uploads/2018/05/Negative-effects-of-water-pollution-680x350.jpg"
+      },
+      {
+        "url": "https://eco-volontaire-international.com/wp-content/uploads/2017/08/pollution-couv-620x330.jpg"
+      },
+      {
+        "url": "http://www.tysmagazine.com/wp-content/uploads/6-Maneras-de-proteger-el-ecosistema-marino-con-tus-acciones-cotidianas-tysmagazine-2-550x300.jpg"
+      },
+      {
+        "url": "https://www.nez-allgaeu.de/fileadmin/_processed_/b/c/csm_pollution-pixabay_1603644_1280_a09ac1868c.jpg"
+      },
+      {
+        "url": "http://www.alqalahnews.net/assets/2018-07-26/images/194156_1_1532596690.jpg"
+      },
+      {
+        "url": "https://estadodiario.com/wp-content/uploads/2018/05/contaminacion-antropoceno-rilson-avelar-390x220.jpg"
+      },
+      {
+        "url": "https://i1.wp.com/estadodiario.com/wp-content/uploads/2018/05/contaminacion-antropoceno-rilson-avelar.jpg?resize=390%2C220"
+      },
+      {
+        "url": "https://webmedias.ac-nice.fr/chasseursdactu/wp-content/uploads/sites/39/2018/03/pollution-1603644_640-390x205.jpg"
+      },
+      {
+        "url": "https://i1.wp.com/spyglass-online.com/wp-content/uploads/2017/11/pollution-1603644_960_720.jpg?resize=375%2C195&amp;ssl=1"
+      },
+      {
+        "url": "https://ccute.cc/wp-content/uploads/2018/08/3405-1-310x165.png"
+      },
+      {
+        "url": "https://eco-volontaire-international.com/wp-content/uploads/2017/08/pollution-couv-300x160.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/www.doonwire.com/wp-content/uploads/2018/06/plastic-pollution.jpg?resize=260%2C146"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "http://trendsandtravel.dk/wp-content/uploads/2018/02/mallorca-skrald-1.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/onesea.org/wp-content/uploads/2017/05/pollution-1603644_1920.jpg"
+      },
+      {
+        "url": "https://thinkbuilding.sk/wp-content/uploads/2018/06/pollution-1603644_1920.jpg"
+      },
+      {
+        "url": "http://devenons-ambassadeur-environnement.fr/wp-content/uploads/2018/08/pollution-1603644_1920.jpg"
+      },
+      {
+        "url": "https://cdn-images-1.medium.com/max/1600/1*I4FRZMZrjxvtNetrclP5rw.jpeg"
+      },
+      {
+        "url": "http://transitionsfv.org/wp-content/uploads/what-is-water-pollution-and-its-causes-effects-types-prevention-remarkable-pictures.jpg"
+      },
+      {
+        "url": "https://www.tatumisoukiti.com/wp-content/uploads/2018/03/pollution-1603644_1280.jpg"
+      },
+      {
+        "url": "http://www.beppegrillo.it/wp-content/uploads/2018/05/mare_rifiuti.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/res.cloudinary.com/bestnow/image/upload/v1526666541/environmental%20pollution%20essay%20in%20hindi/pollution-1603644_1280.jpg?resize=1220%2C927&amp;ssl=1"
+      },
+      {
+        "url": "https://i0.wp.com/www.4vientos.net/wp-content/uploads/2018/03/pollution-1603644_1920.jpg?fit=1200%2C913"
+      },
+      {
+        "url": "https://gaiaspeaks.theblogpress.com/files/2018/03/Water-pollution-causes-types-1024x778.jpg"
+      },
+      {
+        "url": "http://www.bioblog.com.br/wp-content/uploads/2017/08/pollution-1603644_1920-1170x680.jpg"
+      },
+      {
+        "url": "http://www.master-ab.com.tw/uploads/%E6%8A%97%E8%8F%8C%E5%B0%88%E6%AC%84/%E4%BD%95%E8%AC%82%E6%98%AF%E7%92%B0%E5%A2%83%E8%8D%B7%E7%88%BE%E8%92%99/pollution_1603644.jpg"
+      },
+      {
+        "url": "http://www.puntuit.nl/static/image/10819/14/pollution%201603644%201920.jpg"
+      },
+      {
+        "url": "https://1.bp.blogspot.com/-PmHIQaOZClU/Wi2AWF2lETI/AAAAAAAAAAg/SB0G_vNMoAQisHek2jTeRXVYD1QSEyksgCK4BGAYYCw/w1200-h630-p-k-no-nu/pollution-1603644.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/mhealthorg.com/wp-content/uploads/2018/07/pollution-1603644_1280-1-1080x675.jpg"
+      },
+      {
+        "url": "http://www.beppegrillo.it/wp-content/uploads/2018/05/mare_rifiuti-1024x708.jpg"
+      },
+      {
+        "url": "https://waste811.files.wordpress.com/2017/09/water-pollution.png"
+      },
+      {
+        "url": "http://homeimprov.info/wp-content/uploads/2018/02/effects-of-water-pollution-on-environment-environmental-pollution-and-its-effects-for-living-things-based-on-water-pollution-part-2-effects-of-water-pollution-on-environment-ppt.jpg"
+      },
+      {
+        "url": "https://www.jslcube.com/uploads/contents/53352ff6-682c-11e8-a669-509a4c705958.jpg"
+      },
+      {
+        "url": "https://waste811.files.wordpress.com/2017/09/water-pollution.png?w=946&amp;h=700&amp;crop=1"
+      },
+      {
+        "url": "https://filkaline.com/wp-content/uploads/2017/11/pollution-ocean-seas-rivers.jpg"
+      },
+      {
+        "url": "https://greenchemie.files.wordpress.com/2013/07/pollution-1603644_1280.jpg?w=900"
+      },
+      {
+        "url": "https://www.jslcube.com/uploads/contents/513ec6a6-682c-11e8-a669-509a4c705958.jpg"
+      },
+      {
+        "url": "https://tesolwar.files.wordpress.com/2016/12/pollution-1603644_960_720.jpg?w=863&amp;h=0&amp;crop=1"
+      },
+      {
+        "url": "http://www.tysmagazine.com/wp-content/uploads/6-Maneras-de-proteger-el-ecosistema-marino-con-tus-acciones-cotidianas-tysmagazine-2-e1526885008328.jpg"
+      },
+      {
+        "url": "https://static.limawaktu.id/media/2018/01/25/polusi-5a69a1931035c.jpg"
+      },
+      {
+        "url": "https://mothership.sg/wp-content/uploads/2018/07/pollution.jpg"
+      },
+      {
+        "url": "https://www.lemondedelenergie.com/wp-content/uploads/2018/03/nucleaire-dechets-radioactifs-cigeo.png"
+      },
+      {
+        "url": "https://i1.wp.com/spyglass-online.com/wp-content/uploads/2017/11/pollution-1603644_960_720.jpg?fit=810%2C616&amp;ssl=1"
+      },
+      {
+        "url": "https://images.firstpost.com/wp-content/uploads/2018/04/Water-Pollution-social.jpg"
+      },
+      {
+        "url": "https://tfv.goodblogscdn.com/sites/www.theflamingvegan.com/post_images/originals/5163.jpg?v=1484079566"
+      },
+      {
+        "url": "https://d345cba086ha3o.cloudfront.net/wp-content/uploads/2017/08/pollution-1603644_1920-e1502004231170.jpg"
+      },
+      {
+        "url": "http://autossustentavel.com/wp-content/uploads/2018/05/pollution-1603644_1920.jpg"
+      },
+      {
+        "url": "http://www.master-ab.com.tw/photo/img459.jpg"
+      },
+      {
+        "url": "https://2.bp.blogspot.com/-X7S8bzc199k/Ww2NFbyVn5I/AAAAAAAAAHY/10Fvygj5oiIsIwJadTM_oAtub823mb20ACLcBGAs/w1200-h630-p-k-no-nu/maxpixel.net.jpg"
+      },
+      {
+        "url": "https://2.bp.blogspot.com/-nqLrsm1QAkk/WF0U3rRd0LI/AAAAAAAAAbM/kzGoz0KwOr8QOdmQOcOnBbaPwi7uSdSeQCLcB/w1200-h630-p-k-no-nu/pollution-1603644_960_720.jpg"
+      },
+      {
+        "url": "https://2.bp.blogspot.com/-jbVVFZOgQZU/WsQ-8qMMzKI/AAAAAAAABRg/QMEyRepS3fAFu-S7x3iEqTVC1BZX-A8qwCLcBGAs/w1200-h630-p-k-no-nu/polusi.jpg"
+      },
+      {
+        "url": "https://divinglove.com/images/raxo_thumbs/amp/tb-w900-h500-fit-int-4dafa1f23adb541c71a5299699c4e308.jpg"
+      },
+      {
+        "url": "https://divinglove.com/images/guncel/cevre-kirliligi.jpeg"
+      },
+      {
+        "url": "https://aquafresh.lk/wp-content/uploads/2017/03/pollution-1603644_1920-768x584.jpg"
+      },
+      {
+        "url": "https://www.abadiadigital.com/wp-content/uploads/2009/06/contaminacion-oceanos.jpg"
+      },
+      {
+        "url": "https://static.retema.es/media/images/noticias/aXOGPfGAK4vSw3HlQZTtBuKmQCTcignxi6w.jpg"
+      },
+      {
+        "url": "https://media.licdn.com/media-proxy/ext?w=800&amp;h=800&amp;hash=65N%2F3XY4krbMhBgjS9BIlNjDLWU%3D&amp;ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Ua9hFUWxxEu7qqEqUq84UlCV4XVBy7yBHi1vZWdMyi3PZKBPa3k5AFJKXhCjwYyfue3QDP-TNbvd9--JJ4klsOwd8ixchRLex0yjGZO78UyPwpptp2hAOS-cCBJ"
+      },
+      {
+        "url": "https://stepcdn.com/assets/2017-11/02/9/sb5ut/pollution-1603644_960_720-700x.jpg"
+      },
+      {
+        "url": "http://mblogthumb4.phinf.naver.net/MjAxNzA4MjVfMTcz/MDAxNTAzNjIxMTY3OTg1.B6CIdee77KCNChK2w_QzYc4s3TnGmkhLOtNCZS4D638g.jKQz1H0DkJxCdQ_Ee2e-6_SFP8HE0AWKLAUCOjv-0KEg.JPEG.ulsan-port/image_5730601431503621153768.jpg?type=w800"
+      },
+      {
+        "url": "https://howtocruise.co.uk/wp-content/uploads/2018/04/pollution-1603644_1280.jpg"
+      },
+      {
+        "url": "https://static.limawaktu.id/media/2018/02/06/limbaah-5a79676e15b98.jpg"
+      },
+      {
+        "url": "https://www.iagua.es/sites/default/files/styles/share-fb-830x436/public/pollution-1603644_1280.jpg?itok=BGcZzjdH"
+      },
+      {
+        "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ce66up4aq3bs31n917tk40m097-20180608132302.Medi.jpeg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "http://getdrawings.com/water-pollution-drawing",
+        "pageTitle": "&lt;b&gt;Water Pollution Drawing&lt;/b&gt; at GetDrawings.com | Free for personal use ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://getdrawings.com/image/water-pollution-drawing-55.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://clipartxtras.com/categories/view/b84c5f4b0b05fec9d4a1fb24afdc5e697bf0509e/water-pollution-drawing.html",
+        "pageTitle": "28+ Collection of &lt;b&gt;Water Pollution Drawing&lt;/b&gt; | High quality, free cliparts ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.clipartxtras.com/93722f15850c5f7c226ae2fcbf656a91_the-different-types-of-water-pollution-water-filter-answers-water-pollution-drawing_400-304.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "https://clipartxtras.com/categories/view/84511086a13b13bab196c01924e6c57954b0e8de/water-pollution-cartoon-drawing.html",
+        "pageTitle": "28+ Collection of &lt;b&gt;Water Pollution&lt;/b&gt; Cartoon &lt;b&gt;Drawing&lt;/b&gt; | High quality ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.clipartxtras.com/93722f15850c5f7c226ae2fcbf656a91_the-different-types-of-water-pollution-water-filter-answers-water-pollution-cartoon-drawing_400-304.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "https://waterfilteranswers.com/types-water-pollution/",
+        "pageTitle": "The Different Types of &lt;b&gt;Water Pollution&lt;/b&gt; - Water Filter Answers",
+        "partialMatchingImages": [
+          {
+            "url": "https://waterfilteranswers.com/wp-content/uploads/2018/01/pollution-1603644_640.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://drawingartlic.us/list/water-pollution-sketch.asp",
+        "pageTitle": "Pictures: &lt;b&gt;Water Pollution Sketch&lt;/b&gt;, - Drawings Art Sketch",
+        "partialMatchingImages": [
+          {
+            "url": "https://drawingartlic.us/resoure/1751586/the-different-types-of-water-pollution-water-filter-answers-water-pollution-is-becoming-an-ever-increasing-problem-in-todays-society-our-over-reliance-on-chemicals-and-a-rapidly-increasing-population-are-just-two.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://drawingartlic.us/list/sketch-of-water-pollution.asp",
+        "pageTitle": "Gallery: &lt;b&gt;Sketch&lt;/b&gt; Of &lt;b&gt;Water Pollution&lt;/b&gt;, - Drawings Art &lt;b&gt;Sketch&lt;/b&gt;",
+        "partialMatchingImages": [
+          {
+            "url": "https://drawingartlic.us/resoure/1740387/water-pollution-drawing-at-getdrawingscom-free-for-personal-use-400x304-the-different-types-of-water-pollution.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://arts-drawing.com/s/easy-drawing-of-water-pollution.asp",
+        "pageTitle": "Photos: Easy Drawing Of &lt;b&gt;Water Pollution&lt;/b&gt;, - &lt;b&gt;DRAWING&lt;/b&gt; ARTIST",
+        "partialMatchingImages": [
+          {
+            "url": "https://arts-drawing.com/source/47307/water-pollution-drawing-at-getdrawingscom-free-for-personal-use-400x304-the-different-types-of-water-pollution.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://arts-drawing.com/s/pics-of-water-pollution-in-sketch-full-hd.asp",
+        "pageTitle": "Photos: Pics Of &lt;b&gt;Water Pollution&lt;/b&gt; In &lt;b&gt;Sketch&lt;/b&gt; Full Hd, - &lt;b&gt;DRAWING&lt;/b&gt; ARTIST",
+        "partialMatchingImages": [
+          {
+            "url": "https://arts-drawing.com/source/7783/the-different-types-of-water-pollution-water-filter-answers-water-pollution-is-becoming-an-ever-increasing-problem-in-todays-society-our-over-reliance-on-chemicals-and-a-rapidly-increasing-population-are-just-two.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://stepfeed.com/jeddah-s-coastal-waters-are-10-times-more-polluted-than-the-global-average-5686",
+        "pageTitle": "Jeddah&amp;#39;s coastal &lt;b&gt;waters&lt;/b&gt; are 10 times more &lt;b&gt;polluted&lt;/b&gt; than the global ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://stepcdn.com/assets/2017-11/02/9/sb5ut/pollution-1603644_960_720-700x.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.deccanchronicle.com/science/science/080618/new-material-found-to-eliminate-organic-pollutants-in-water.html",
+        "pageTitle": "New material found to eliminate organic &lt;b&gt;pollutants&lt;/b&gt; in &lt;b&gt;water&lt;/b&gt;",
+        "partialMatchingImages": [
+          {
+            "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ce66up4aq3bs31n917tk40m097-20180608132302.Medi.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "https://inletkeeper.org/protect-your-water-source/",
+        "pageTitle": "PROTECT YOUR &lt;b&gt;WATER&lt;/b&gt; SOURCE - Cook Inletkeeper",
+        "partialMatchingImages": [
+          {
+            "url": "https://inletkeeper.org/wp-content/uploads/2018/01/pollution-1603644_1280.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.infolaby.com/water-pollution-causes-effects-and-control-measures/",
+        "pageTitle": "&lt;b&gt;Water Pollution&lt;/b&gt; Causes Effects and Control Measures » - Info Laby",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.infolaby.com/wp-content/uploads/2018/06/pollution-1603644_1920-1200x630.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.drawingninja.com/t/drawings-of-water-pollution.html",
+        "pageTitle": "Drawings Of &lt;b&gt;Water Pollution&lt;/b&gt; - &lt;b&gt;Drawing&lt;/b&gt; for Landscape, Nature, and ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.drawingninja.com/source/3861886/water-pollution-drawing-at-getdrawingscom-free-for-personal-use-400x304-the-different-types-of-water-pollution.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://thewatergeeks.com/what-causes-water-pollution/",
+        "pageTitle": "What Causes &lt;b&gt;Water Pollution&lt;/b&gt;? - The Water Geeks",
+        "partialMatchingImages": [
+          {
+            "url": "https://thewatergeeks.com/wp-content/uploads/2018/06/polluted-ocean-water.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pinterest.com/pin/617908011343922881/",
+        "pageTitle": "Helping you to do your homework | &lt;b&gt;WATER POLLUTION&lt;/b&gt; | definitions ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.pinimg.com/originals/c5/12/20/c51220677879b68358cc7e1fa9aa307f.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://drawingninja.com/show/drawings-of-water-pollution.asp",
+        "pageTitle": "Drawings Of &lt;b&gt;Water Pollution&lt;/b&gt; - &lt;b&gt;Drawing&lt;/b&gt; for Landscape, Nature, and ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://drawingninja.com/resoure/3861886/water-pollution-drawing-at-getdrawingscom-free-for-personal-use-400x304-the-different-types-of-water-pollution.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.millvalleyrefuse.com/post/3673721-how-trash-gets-into-creeks",
+        "pageTitle": "How Trash Gets Into Creeks - Mill Valley Refuse",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.millvalleyrefuse.com/rendition.small/blog_images/pollution-1603644_640.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://kathleenhalme.com/explore/stream-clipart-water-pollution/",
+        "pageTitle": "Stream clipart &lt;b&gt;water pollution&lt;/b&gt; ~ Frames ~ Illustrations ~ HD images ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://kathleenhalme.com/images/river-clipart-water-pollution-9.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.aninews.in/news/science/new-material-found-to-eliminate-organic-pollutants-in-water201806061447060002/",
+        "pageTitle": "New material found to eliminate organic &lt;b&gt;pollutants&lt;/b&gt; in &lt;b&gt;water&lt;/b&gt; - ANI News",
+        "partialMatchingImages": [
+          {
+            "url": "https://aniportalimages.s3.amazonaws.com/media/details/Water_Pollution_06062018.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pinterest.co.uk/pin/617908011343922881/",
+        "pageTitle": "Helping you to do your homework | &lt;b&gt;WATER POLLUTION&lt;/b&gt; | definitions ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.pinimg.com/originals/c5/12/20/c51220677879b68358cc7e1fa9aa307f.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://filkaline.com/pollution-causes-effects/",
+        "pageTitle": "What are the causes of &lt;b&gt;Water Pollution&lt;/b&gt;? › Filkaline",
+        "partialMatchingImages": [
+          {
+            "url": "https://filkaline.com/wp-content/uploads/2017/11/pollution-ocean-seas-rivers.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.emaze.com/@AOOZCZCZW",
+        "pageTitle": "&lt;b&gt;Water Pollution&lt;/b&gt; - Emaze",
+        "partialMatchingImages": [
+          {
+            "url": "https://res.cloudinary.com/emazecom/image/fetch/c_limit,a_ignore,w_360,h_280/https%3A%2F%2Fuserscontent2.emaze.com%2Fimages%2F56d251ae-4cae-408c-a31f-1da00db8e218%2F841d2cf373b4c6202be4cf7054435ade.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://water-purifiers.com/a-general-note-on-water-contamination/",
+        "pageTitle": "A General Note on &lt;b&gt;Water Contamination&lt;/b&gt; - Water Purifiers Experts",
+        "fullMatchingImages": [
+          {
+            "url": "http://water-purifiers.com/wp-content/uploads/2016/12/dsf-715x400.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://destiny104.info/causes-of-water-pollution-cartoon.html",
+        "pageTitle": "Causes Of &lt;b&gt;Water Pollution&lt;/b&gt; Cartoon - Destiny",
+        "partialMatchingImages": [
+          {
+            "url": "http://tse4.mm.bing.net/th?id=OIP.hB0s83O0xiAr5M9wVENa3gHaFo"
+          }
+        ]
+      },
+      {
+        "url": "https://www.newsgram.com/human-hair-holds-the-key-to-solving-water-pollution/",
+        "pageTitle": "Human hair holds the key to solving &lt;b&gt;water pollution&lt;/b&gt; | NewsGram",
+        "partialMatchingImages": [
+          {
+            "url": "https://d345cba086ha3o.cloudfront.net/wp-content/uploads/2017/08/pollution-1603644_1920-e1502004231170.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.newsgram.com/envirobot-moves-in-waterways-to-detect-pollution-and-toxins/",
+        "pageTitle": "Swiss Researchers&amp;#39; Envirobot Slithers through Waterways to Detect ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://d345cba086ha3o.cloudfront.net/wp-content/uploads/2017/08/pollution-1603644_1920-e1502004231170.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.images-hd.download/images-of-water-pollution-for-drawing/",
+        "pageTitle": "Images Of &lt;b&gt;Water Pollution&lt;/b&gt; For &lt;b&gt;Drawing&lt;/b&gt; | Images HD Download",
+        "partialMatchingImages": [
+          {
+            "url": "http://getdrawings.com/image/water-pollution-drawing-55.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://gaia-speaks.org/pollution-air-water-land/",
+        "pageTitle": "&lt;b&gt;Pollution&lt;/b&gt; - Air, &lt;b&gt;Water&lt;/b&gt;, Land - Gaia~Speaks",
+        "partialMatchingImages": [
+          {
+            "url": "https://gaia-speaks.org/files/2018/03/Water-pollution-causes-types-1024x778.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://myoldhousefix.com/2018/07/22/tap-water-safe-drink/",
+        "pageTitle": "Is Tap &lt;b&gt;Water&lt;/b&gt; Safe to Drink? What&amp;#39;s in Your &lt;b&gt;Water&lt;/b&gt;? - My Old House&amp;quot;Fix&amp;quot;",
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/myoldhousefix.com/wp-content/uploads/2018/07/pollution-1603644_1920.jpg?resize=300%2C228&amp;ssl=1"
+          }
+        ]
+      },
+      {
+        "url": "https://lovesciencelaith.blogspot.com/2016/12/helping-you-to-do-your-homework-water.html",
+        "pageTitle": "Helping you to do your homework | &lt;b&gt;WATER POLLUTION&lt;/b&gt;| definitions ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://2.bp.blogspot.com/-nqLrsm1QAkk/WF0U3rRd0LI/AAAAAAAAAbM/kzGoz0KwOr8QOdmQOcOnBbaPwi7uSdSeQCLcB/w1200-h630-p-k-no-nu/pollution-1603644_960_720.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.mydrlynx.info/box/drawing-sketch-of-water-pollution.php",
+        "pageTitle": "&lt;b&gt;Drawing Sketch&lt;/b&gt; Of &lt;b&gt;Water Pollution&lt;/b&gt; | MyDrLynx",
+        "partialMatchingImages": [
+          {
+            "url": "https://waterfilteranswers.com/wp-content/uploads/2018/01/pollution-1603644_640.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://homeimprov.info/effects-of-water-pollution-on-environment/effects-of-water-pollution-on-environment-water-pollution-facts-effects-of-water-contamination-clean-water-act-effects-of-air-and-water-pollution-on-environment/",
+        "pageTitle": "Effects Of &lt;b&gt;Water Pollution&lt;/b&gt; On Environment &lt;b&gt;Water Pollution&lt;/b&gt; Facts ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://homeimprov.info/wp-content/uploads/2018/02/effects-of-water-pollution-on-environment-environmental-pollution-and-its-effects-for-living-things-based-on-water-pollution-part-2-effects-of-water-pollution-on-environment-ppt.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://homeimprov.info/effects-of-water-pollution-on-environment/effects-of-water-pollution-on-environment-effects-of-waste-on-the-environment-effects-of-water-pollution-on-environment-pdf/",
+        "pageTitle": "Effects Of &lt;b&gt;Water Pollution&lt;/b&gt; On Environment Effects Of Waste On The ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://homeimprov.info/wp-content/uploads/2018/02/effects-of-water-pollution-on-environment-environmental-pollution-and-its-effects-for-living-things-based-on-water-pollution-part-2-effects-of-water-pollution-on-environment-ppt.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pinterest.ca/pin/617908011343922881/",
+        "pageTitle": "Helping you to do your homework | &lt;b&gt;WATER POLLUTION&lt;/b&gt; | definitions ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.pinimg.com/originals/c5/12/20/c51220677879b68358cc7e1fa9aa307f.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pinterest.ie/pin/617908011343922881/",
+        "pageTitle": "Helping you to do your homework | &lt;b&gt;WATER POLLUTION&lt;/b&gt; | definitions ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.pinimg.com/originals/c5/12/20/c51220677879b68358cc7e1fa9aa307f.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.mydrlynx.info/box/images-of-water-pollution-for-drawing.php",
+        "pageTitle": "Images Of &lt;b&gt;Water Pollution&lt;/b&gt; For &lt;b&gt;Drawing&lt;/b&gt; | MyDrLynx",
+        "partialMatchingImages": [
+          {
+            "url": "http://getdrawings.com/image/water-pollution-drawing-55.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://ohidul.me/water-pollution-images.html/rio-olympics-2016-water-pollution-extends-far-offshore-time-endearing-enchanting-images/",
+        "pageTitle": "Rio Olympics 2016 &lt;b&gt;Water Pollution&lt;/b&gt; Extends Far Offshore Time ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://ohidul.me/wp-content/uploads/what-is-water-pollution-and-its-causes-effects-types-prevention-magnificent-images.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://water-purifiers.com/category/facts/page/3/",
+        "pageTitle": "Facts Archives - Page 3 of 3 - &lt;b&gt;Water&lt;/b&gt; Purifiers Experts",
+        "fullMatchingImages": [
+          {
+            "url": "http://water-purifiers.com/wp-content/uploads/2016/12/dsf-715x400.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://aquafresh.lk/blog/",
+        "pageTitle": "Blog – Aquafresh",
+        "partialMatchingImages": [
+          {
+            "url": "https://aquafresh.lk/wp-content/uploads/2017/03/pollution-1603644_1920-768x584.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://anujasawant.com/2013/07/07/liquid-effluents/",
+        "pageTitle": "Liquid Effluents – Anuja Sawant (Sarangdhar)",
+        "partialMatchingImages": [
+          {
+            "url": "https://greenchemie.files.wordpress.com/2013/07/pollution-1603644_1280.jpg?w=900"
+          }
+        ]
+      },
+      {
+        "url": "https://waste811.wordpress.com/2017/09/29/pump-it/",
+        "pageTitle": "Pump It!! Stop &lt;b&gt;Water Pollution&lt;/b&gt;. | Waste Away",
+        "partialMatchingImages": [
+          {
+            "url": "https://waste811.files.wordpress.com/2017/09/water-pollution.png?w=946&amp;h=700&amp;crop=1"
+          },
+          {
+            "url": "https://waste811.files.wordpress.com/2017/09/water-pollution.png?w=640"
+          },
+          {
+            "url": "https://waste811.files.wordpress.com/2017/09/water-pollution.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.researchstash.com/2018/07/17/making-recycling-of-rubber-eco-friendly/",
+        "pageTitle": "Making Recycling Of Rubber Eco-Friendly - Research Stash",
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/www.researchstash.com/wp-content/uploads/2018/06/pollution-1603644_1280.jpg?resize=300%2C210&amp;ssl=1"
+          }
+        ]
+      },
+      {
+        "url": "https://www.researchstash.com/category/news/",
+        "pageTitle": "News Archives - Research Stash",
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/www.researchstash.com/wp-content/uploads/2018/06/pollution-1603644_1280.jpg?resize=300%2C210&amp;ssl=1"
+          }
+        ]
+      },
+      {
+        "url": "http://transitionsfv.org/pictures-of-water-pollution.html/louisiana-crafts-rules-for-buying-and-selling-water-pollution-also-pictures-of/",
+        "pageTitle": "Louisiana Crafts Rules For Buying And Selling &lt;b&gt;Water Pollution&lt;/b&gt; Also ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://transitionsfv.org/wp-content/uploads/what-is-water-pollution-and-its-causes-effects-types-prevention-ripping-pictures-of.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://pqessaybare.teleteria.us/how-limpets-are-used-to-detect-pollution.html",
+        "pageTitle": "How limpets are used to detect &lt;b&gt;pollution&lt;/b&gt; Coursework Help ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://d345cba086ha3o.cloudfront.net/wp-content/uploads/2017/08/pollution-1603644_1920-e1502004231170.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://youthoceanaction.org.uk/about-copy-copy-copy/",
+        "pageTitle": "Types of Plastic &lt;b&gt;Pollution&lt;/b&gt; | Youth Ocean Action",
+        "partialMatchingImages": [
+          {
+            "url": "http://youthoceanaction.org.uk/wp-content/uploads/2018/03/pollution-1603644__340.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://transitionsfv.org/water-pollution-pictures.html/rio-olympics-2016-water-pollution-extends-far-offshore-time-lively-pictures/",
+        "pageTitle": "Rio Olympics 2016 &lt;b&gt;Water Pollution&lt;/b&gt; Extends Far Offshore Time Lively ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://transitionsfv.org/wp-content/uploads/what-is-water-pollution-and-its-causes-effects-types-prevention-remarkable-pictures.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://waste811.wordpress.com/author/waste811/",
+        "pageTitle": "waste811 | Waste Away",
+        "partialMatchingImages": [
+          {
+            "url": "https://waste811.files.wordpress.com/2017/09/water-pollution.png?w=946&amp;h=700&amp;crop=1"
+          }
+        ]
+      },
+      {
+        "url": "http://www.transparent.com/polish?s=p",
+        "pageTitle": "p | Polish Language Blog - Transparent Language",
+        "partialMatchingImages": [
+          {
+            "url": "https://blogs.transparent.com/polish/files/2018/07/pollution-1603644_1920-350x266.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://destiny104.info/prevention-of-water-pollution-for-kids.html",
+        "pageTitle": "Prevention Of &lt;b&gt;Water Pollution&lt;/b&gt; For Kids - Destiny",
+        "partialMatchingImages": [
+          {
+            "url": "http://tse4.mm.bing.net/th?id=OIP.hB0s83O0xiAr5M9wVENa3gHaFo"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://i3.wp.com/getdrawings.com/image/water-pollution-drawing-55.jpg?fit=450,300&amp;zoom=2&amp;strip=all"
+      },
+      {
+        "url": "https://persiakids.com/wp-content/uploads/2018/07/dirty-water-pollution-drawing-what-is-water-pollution-and-its-causes-effects-types-prevention.jpg"
+      },
+      {
+        "url": "https://img.clipartxtras.com/a56212cbe1f9f718cc7ddb734d787cab_events-philadelphia-water-department-water-pollution-pictures-for-drawing-competition_945-524.jpeg"
+      },
+      {
+        "url": "https://i.pinimg.com/236x/5b/21/f0/5b21f0cdeb1e108de8a1c53ba56d711b--save-water-planet-earth.jpg"
+      },
+      {
+        "url": "https://drawingartlic.us/resoure/1247154/save-trees-save-environment-drawing-porveesha-lakshmi-narayan-save-trees-save-environment-drawing-porveesha-lakshmi-narayan-drawing-on-topic-nature.JPG"
+      },
+      {
+        "url": "https://img.clipartxtras.com/1e31094bf527997459631ca877a7bdf4_cartoon-movement-water-pollution-water-pollution-cartoon-drawing_784-560.jpeg"
+      },
+      {
+        "url": "https://plasticpollutioncoalition.zendesk.com/hc/en-us/article_attachments/211114148/From_the_Bow_Seat_2015_winner_resized.jpg"
+      },
+      {
+        "url": "https://img.clipartxtras.com/89436af9d56e8fdf7d6dfbecf1703b54_marine-environment-pollution-youtube-water-pollution-cartoon-drawing_480-360.jpeg"
+      },
+      {
+        "url": "https://m2.behance.net/rendition/pm/4972243/disp/c86dd89954d23584da63a3f2f8c124b8.jpg"
+      },
+      {
+        "url": "https://s3.amazonaws.com/lowres.cartoonstock.com/animals-fish-skeleton-fish_bone-water_pollution-water_pollutants-ggln267_low.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "water pollution sketch",
+        "languageCode": "en"
+      }
+    ]
+  }
+}
